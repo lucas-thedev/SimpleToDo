@@ -1,4 +1,4 @@
-.container {
+.navbar-container {
     background: transparent;
     display: flex;
     justify-content: center;
@@ -15,13 +15,13 @@
     font-weight: bold;
     font-size: 45px;	
     letter-spacing: -5px;
-	color: rgba(0,0,255,0.5); 
+	color: rgba(255, 0, 149, 0.815);
 }
 
 .main-title:after {
 	content: "a simple to do list";
     position: absolute; 
-    left: 10px; 
-    top: 5px;
-	color: rgba(255,0,0,0.5);   
+    left: -2px; 
+    top: -2px;
+	color: rgba(0, 195, 255, 0.781); 
 }

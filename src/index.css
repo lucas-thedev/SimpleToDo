@@ -16,4 +16,7 @@ code {
 :root {
   --font-content: 'Quicksand', sans-serif;
   --font-bar: 'Libre Barcode 128 Text', cursive;
+  --pink:rgb(255, 0, 149);
+  --blue:  rgb(0, 195, 255);
+  --blue-link: rgb(0, 119, 255);
 }
