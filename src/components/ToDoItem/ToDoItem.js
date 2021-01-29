@@ -2,10 +2,13 @@ import './ToDoItem.css'
 
 function ToDoItem (props) {
     return (
-        <div>
-            <input className="checkbox" type='checkbox' />
-            <span>{props.item}</span>
-        </div>
+        <div className='todo-item-container'>
+            <label className='b-contain'>
+	        <input type='checkbox' />
+	        <div className='b-input'></div>
+            </label>
+            <div className='item'>{props.item}</div>
+        </div> 
     );
 }
 

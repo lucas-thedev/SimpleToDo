@@ -3,8 +3,8 @@
 
 body {
   margin: 0;
-  background: rgb(118,212,241);
-  background: linear-gradient(90deg, rgba(118,212,241,1) 0%, rgba(255,255,255,1) 48%, rgba(252,131,156,1) 100%);
+  background: rgb(204,242,255);
+  background: linear-gradient(90deg, rgba(204,242,255,1) 0%, rgba(255,255,255,1) 48%, rgba(255,226,232,1) 100%);
   -moz-osx-font-smoothing: grayscale;
 }
 

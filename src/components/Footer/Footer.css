@@ -7,9 +7,10 @@
 .credits {
     font-family: var(--font-bar);
     font-size: 45px;
-    margin-right: 50px;
+    margin-right: 30px;
 }
 
-.linkedin {
+.social-media {
     cursor: pointer;
+    margin-left: 15px;
 }
