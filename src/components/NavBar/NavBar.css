@@ -1,0 +1,27 @@
+.container {
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.main-title {
+	display: inline;
+	position: relative;
+    font-family: var(--font-content);
+    font-weight: bold;
+    font-size: 45px;	
+    letter-spacing: -5px;
+	color: rgba(0,0,255,0.5); 
+}
+
+.main-title:after {
+	content: "a simple to do list";
+    position: absolute; 
+    left: 10px; 
+    top: 5px;
+	color: rgba(255,0,0,0.5);   
+}

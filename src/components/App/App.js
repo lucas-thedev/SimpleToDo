@@ -1,7 +1,7 @@
-import NavBar from '../NavBar/NavBar';
-import Content from '../Content/Content';
-import Footer from '../Footer/Footer';
-import './App.css';
+import NavBar from '../NavBar/NavBar'
+import Content from '../Content/Content'
+import Footer from '../Footer/Footer'
+import './App.css'
 
 function App() {
   return (
@@ -13,4 +13,4 @@ function App() {
   );
 }
 
-export default App;
+export default App

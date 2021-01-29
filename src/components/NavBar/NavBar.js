@@ -1,7 +1,13 @@
+import './NavBar.css'
+
 function NavBar() {
     return (
-        <h2>This is a NavBar</h2>
+        <div className='container'>
+            <div className='main-title'>
+                a simple to do list
+            </div>
+        </div>
     );
 }
 
-export default NavBar;
+export default NavBar

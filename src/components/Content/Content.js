@@ -1,11 +1,9 @@
-import Checkbox from '../CheckBox/Checkbox';
+import ToDoList from '../ToDoList/ToDoList';
 
 function Content() {
     return (
         <div>
-            <Checkbox />
-            <Checkbox />
-            <Checkbox />
+            <ToDoList />
         </div>
     );
 }
