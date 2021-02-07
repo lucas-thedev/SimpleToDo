@@ -1,8 +1,9 @@
 import ToDoList from '../ToDoList/ToDoList';
+import './Content.css'
 
 function Content() {
     return (
-        <div>
+        <div className='content-container'>
             <ToDoList />
         </div>
     );
