@@ -8,7 +8,7 @@ html, #root {
 body {
   margin: 0;
   background: rgb(204,242,255);
-  background: linear-gradient(90deg, rgba(204,242,255,1) 0%, rgba(255,255,255,1) 48%, rgba(255,226,232,1) 100%);
+  background: linear-gradient(90deg, rgba(204,242,255,1) 0%, rgba(234, 232, 232,1) 48%, rgba(255,226,232,1) 100%);
   -moz-osx-font-smoothing: grayscale;
   height: 100%;
   display: flex;

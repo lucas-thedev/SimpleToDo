@@ -9,13 +9,18 @@ function Footer() {
                 made by lucas
             </div>
             <div className='social-media'>
-                <SiLinkedin color='#0e76a8' size='2em'/>
+                <a href='https://www.linkedin.com/in/lucasabuddev/' target="_blank" rel="noopener noreferrer">
+                    <SiLinkedin color='#0e76a8' size='2em'/>
+                </a>
             </div>
             <div className='social-media'>
+            <a href='https://github.com/lucas-thedev' target="_blank" rel="noopener noreferrer">
                 <SiGithub color='#000' size='2em'/>
+            </a>
             </div>
         </div>
     );
 }
 
 export default Footer;
+
